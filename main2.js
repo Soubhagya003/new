@@ -4,3 +4,6 @@ const name="sova sahoo"
 
 
 const age2=89
+
+
+const word="hello"
