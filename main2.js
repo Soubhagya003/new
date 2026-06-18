@@ -7,3 +7,5 @@ const age2=89
 
 
 const word="hello"
+
+const yuo=78
